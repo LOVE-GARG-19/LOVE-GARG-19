@@ -4,7 +4,7 @@
 🎯 **Passionate about building, breaking, and learning everything in tech.**
 
 - 🔭 **Currently working on:** Building full stack web applications using Spring Boot and React.
-- 🌱 **Currently learning:** WebSocket (real-time communication), Microservices, Cloud technologies.
+- 🌱 **Currently learning:** WebSocket (real-time communication), TypeScript, Cloud technologies.
 - 👯 **Open to:** Collaborations on beginner-friendly projects, learning communities, and tech discussions.
 - 🤔 **Seeking guidance on:** Writing clean code, system design principles, and scaling applications.
 - 💬 **Ask me about:** Java, Spring Boot, React, learning resources, and beginner-friendly project ideas.
